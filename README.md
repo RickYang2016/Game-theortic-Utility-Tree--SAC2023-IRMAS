@@ -63,6 +63,7 @@ For this game implementation, we decompose the team strategy into three levels.
 > Note: Please check the [Link](https://youtu.be/SjoxazLar6I) for the full video representation.
 
 ## Demontration Explore Domain in Robotarium
+To demonstrate the GUT on the multi-robot applications, we implement our method in the [Robotarium](https://www.robotarium.gatech.edu/) platform, a remote-accessible multi-robot experiment testbed that supports controlling up to 20 robots simultaneously on a 3.2m x 2.0m large rectangular area. Each robot has the dimensions 0.11 m x 0.1 m x 0.07 m in the testbed. The platform also provides a simulator helping users test their code, which can rapidly prototype their distributed control algorithms and receive feedback about their implementation feasibility before sending them to be executed by the robots on the Robotarium. 
 
 
 ## Conclusion
