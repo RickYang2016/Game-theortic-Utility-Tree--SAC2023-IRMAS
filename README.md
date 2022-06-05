@@ -55,7 +55,7 @@ For this game implementation, we decompose the team strategy into three levels.
 
 > Note: The design of the utility functions at each level is critical to determine whether an agent can calculate reasonable tactics.
 
-### Visual Representation
+### Visual Representation: Without and With Unintentional Adversary
 <div align = center>
     <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/video.gif" height="210" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_s.gif" height="210" alt="Hopper-V2 3SABC Video"/>
 </div>
