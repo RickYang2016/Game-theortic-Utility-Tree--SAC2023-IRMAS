@@ -57,7 +57,7 @@ For this game implementation, we decompose the team strategy into three levels.
 
 ### Visual Representation: Without and With Unintentional Adversaries
 <div align = center>
-    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/video.gif" height="210" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_s.gif" height="210" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/video.gif" height="210" width="374" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_s.gif" height="210" width="374" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 > Note: Please check the [Link](https://youtu.be/SjoxazLar6I) for the full video representation.
@@ -72,17 +72,17 @@ Our Robotarium experiments consider four different strategies for the explorer t
 
 ### one explorer vs. one alien
 <div align = center>
-<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s1v1.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r1v1.gif" height="213" alt="Hopper-V2 3SABC"/>
+<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s1v1.gif" height="213" width="379" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r1v1.gif" height="213" width="379" alt="Hopper-V2 3SABC"/>
 </div>
 
 ### one explorer vs. two aliens
 <div align = center>
-<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s1v2.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r1v2.gif" height="213" alt="Hopper-V2 3SABC"/>
+<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s1v2.gif" height="213" width="379" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r1v2.gif" height="213" width="379" alt="Hopper-V2 3SABC"/>
 </div>
 
 ### four explorers vs. three aliens
 <div align = center>
-<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s4v3.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r4v3.gif" height="213" alt="Hopper-V2 3SABC"/>
+<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s4v3.gif" height="213" width="379" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r4v3.gif" height="213" width="379" alt="Hopper-V2 3SABC"/>
 </div>
 
 > Note: Check the [Link](https://youtu.be/tax-mVvbxJs) for the full demonstration video.
