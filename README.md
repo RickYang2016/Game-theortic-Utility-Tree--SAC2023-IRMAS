@@ -7,5 +7,5 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 
 > Structure of the Game-theoretic Utility Tree (GUT)
     <div align = center>
-    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/gut1.png" height="200" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/gut2.png" height="200" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/gut1.png" height="230" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/gut2.png" height="230" alt="Hopper-V2 3SABC Video"/>
     </div>
