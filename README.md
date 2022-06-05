@@ -26,8 +26,7 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 <img src="http://latex.codecogs.com/svg.latex? Supposing~the~GUT~for~the~ally~group~has~w~levels~of~action~decomposition~together,~making~a"/>
 <img src="http://latex.codecogs.com/svg.latex? group~strategy~s_A = \{s_A^1, s_A^2, ... , s_{A}^w\},~where~s_A^i~represents~the~i^{th}~level~substrategy~in~the~ally~group"/>
 <img src="http://latex.codecogs.com/svg.latex? strategy~space.~Then,~we~can~show~that~agent~group~A~using~GUT~against~adversary~B~will~have~at"/>
-<img src="http://latex.codecogs.com/svg.latex? least~one~dominant~strategy~series~s_A^* = (s_A^1*, s_A^2*, ... , s_A^w*),~which~will~enable~agents~A~collectively"/>
-<img src="http://latex.codecogs.com/svg.latex? execute~an~optimal~strategy~s_A^*~to~win~against~adversary~B,~promising~a~solution~to~the~problem"/>
+<img src="http://latex.codecogs.com/svg.latex? least~one~dominant~strategy~series~s_A^* = (s_A^1*, s_A^2*, ... , s_A^w*),~which~will~enable~agents~A~collectively"><img src="http://latex.codecogs.com/svg.latex? execute~an~optimal~strategy~s_A^*~to~win~against~adversary~B,~promising~a~solution~to~the~problem"/>
 <img src="http://latex.codecogs.com/svg.latex? as~below:"/>
 
 <div align = center>
