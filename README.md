@@ -37,6 +37,7 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 Note: Please check the [paper](https://arxiv.org/abs/2004.10950) for more details about the proof of the GUT Decision Theorem.
 
 ## Evaluation through Simulation Studies
+### Experiment Setting in Explore Domain
 <div align = center>
     <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/matrix.png" height="300" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/scenario.png" height="300" alt="Hopper-V2 3SABC Video"/>
 </div>
