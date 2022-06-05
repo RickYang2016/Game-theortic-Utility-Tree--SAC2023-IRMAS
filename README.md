@@ -38,7 +38,7 @@ Note: Please check the [paper](https://arxiv.org/abs/2004.10950) for more detail
 
 ## Evaluation through Simulation Studies
 <div align = center>
-    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/matrix.png" height="275" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/scenario.png" height="275" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/matrix.png" height="300" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/scenario.png" height="300" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 ## Demontration Explore Domain in Robotarium
