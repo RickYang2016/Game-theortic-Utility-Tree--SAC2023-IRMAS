@@ -14,7 +14,7 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 ## Approach Overview
 ### Explore Domain
 <div align = center>
-    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/overview.png" height="260" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/explore.png" height="260" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/overview.png" height="300" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/explore.png" height="300" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 
