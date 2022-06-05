@@ -34,6 +34,8 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 <img src="http://latex.codecogs.com/svg.latex? s_e^* = \underset{s_e \in {S_e}} \arg \max [W(s_e | T, S_a, N_e) - \sum_{i=1}^{\alpha} C_i(s_{i} | T, s_e, N_{i})]"/>
 </div>
 
+Note: Please check the [paper](https://arxiv.org/abs/2004.10950) for more details about the proof of the GUT Decision Theorem.
+
 ## Evaluation through Simulation Studies
 
 
