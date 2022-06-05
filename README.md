@@ -71,13 +71,19 @@ To demonstrate the GUT on the multi-robot applications, we implement our method 
 Our Robotarium experiments consider four different strategies for the explorer team: attacking and changing direction, attacking and changing speed, defending and changing direction, and defending and changing speed. We decompose this strategy set into two levels for GUT implementation in Robotarium: Level 1 considers deciding attack or defend; and Level 2 considers changing direction or speed for a single explorer game while it considers triangle or diamond formation shape for a multiple explorer game. Two different tactics payoff matrices are designed in Level 2 to differentiate the strategies between single-agent and multiagent cooperation.
 
 ### one explorer vs. one alien
-
+<div align = center>
+<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s1v1.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r1v1.gif" height="213" alt="Hopper-V2 3SABC"/>
+</div>
 
 ### one explorer vs. two aliens
-
+<div align = center>
+<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s1v2.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r1v2.gif" height="213" alt="Hopper-V2 3SABC"/>
+</div>
 
 ### four explorers vs. three aliens
-
+<div align = center>
+<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s3v4.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r3v4.gif" height="213" alt="Hopper-V2 3SABC"/>
+</div>
 
 
 ## Conclusion
