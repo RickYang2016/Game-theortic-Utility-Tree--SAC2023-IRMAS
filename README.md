@@ -82,7 +82,7 @@ Our Robotarium experiments consider four different strategies for the explorer t
 
 ### four explorers vs. three aliens
 <div align = center>
-<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s3v4.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r3v4.gif" height="213" alt="Hopper-V2 3SABC"/>
+<img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s4v3.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r4v3.gif" height="213" alt="Hopper-V2 3SABC"/>
 </div>
 
 
