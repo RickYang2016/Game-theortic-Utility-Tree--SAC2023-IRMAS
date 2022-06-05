@@ -25,7 +25,7 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 ### Theorem (GUT Decision)
 <img src="http://latex.codecogs.com/svg.latex? Supposing~the~GUT~for~the~ally~group~has~w~levels~of~action~decomposition~together,~making~a"/>
 <img src="http://latex.codecogs.com/svg.latex? group~strategy~s_A = \{s_A^1, s_A^2, ... , s_{A}^w\},~where~s_A^i~represents~the~i^{th}~level~substrategy~in~the~ally~group"/>
-<img src="http://latex.codecogs.com/svg.latex? strategy~space.~Then,~we~can~show~that~agent~group~A~using~GUT~against~adversary"/>
+<img src="http://latex.codecogs.com/svg.latex? strategy~space.~Then,~we~can~show~that~agent~group~A~using~GUT~against~adversary~B~will~have~at"/>
 
 ## Evaluation through Simulation Studies
 
