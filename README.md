@@ -37,6 +37,11 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 Note: Please check the [paper](https://arxiv.org/abs/2004.10950) for more details about the proof of the GUT Decision Theorem.
 
 ## Evaluation through Simulation Studies
+### Experiment Platform
+Considering cross-platform, scalability, and efficiency of the simulations, we chose the [Unity](https://unity.com/) game engine to simulate the Explorers and Aliens Game and selected [Gambit](http://www.gambit-project.org/) toolkit for calculating each level's Nash Equilibrium in the GUT.
+
+> Note: Gambit is an open-source collection of tools for doing computation in game theory which can build, analyze, and explore game models.
+
 ### Experiment Setting in the Explore Domain
 In this domain, the explorers will group in patrol formation to explore the circumstance when they do not detect aliens. They are provided with the location of the treasure and always choose the shortest path to the goal, then circle around the treasure location once reached. In the whole process, explorers present a kind of global behaviors using collective rationality and caring about their group interest. In contrast, aliens are more powerful than explorers but show only self-interest and do not cooperate within themselves. 
 
