@@ -22,8 +22,8 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
     <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/overview.png" height="285" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/explore.png" height="285" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-### Theorem
-
+### Theorem (GUT Decision)
+<img src="http://latex.codecogs.com/svg.latex? Supposing~the~GUT~for~the~ally~group~has~w~levels~of~action~decomposition~together,"/>
 
 ## Evaluation through Simulation Studies
 
