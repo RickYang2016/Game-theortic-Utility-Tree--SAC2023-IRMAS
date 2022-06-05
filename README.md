@@ -85,6 +85,7 @@ Our Robotarium experiments consider four different strategies for the explorer t
 <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s4v3.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r4v3.gif" height="213" alt="Hopper-V2 3SABC"/>
 </div>
 
+> Note: Check the [Link](https://youtu.be/tax-mVvbxJs) for the full demonstration video.
 
 ## Conclusion
 We introduce a new Game-theoretic Utility Tree (GUT) for multiagent decision-making in adversarial scenarios. We then present an example real-time strategy game called Explore Domain where a group of explorer agents tackles physically attacking adversary agents. Through extensive numerical simulations, we analyze GUT and compare it against a state-of-the-art cooperative decision-making approach, such as the greedy selection method in QMIX. We verified the effectiveness of GUT through two types of experiments involving interaction and information prediction between the agents. The results showed that the GUT could organize more complex relationships among MAS cooperation, helping the group achieve more challenging tasks with lower costs and higher winning rates. 
