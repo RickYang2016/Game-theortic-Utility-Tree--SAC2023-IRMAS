@@ -29,7 +29,7 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 <img src="http://latex.codecogs.com/svg.latex? least~one~dominant~strategy~series~s_A^* = (s_A^1*, s_A^2*, ... , s_A^w*),~which~will~enable~agents~A~collectively"/>
 <img src="http://latex.codecogs.com/svg.latex? execute~an~optimal~strategy~s_A^*~to~win~against~adversary~B,~promising~a~solution~to~the~problem"/>
 <img src="http://latex.codecogs.com/svg.latex? as~below."/>
-<img src="http://latex.codecogs.com/svg.latex? s_e^* = \underset{s_e \in S_e} \arg \max [W(s_e | T, S_a, N_e) - \sum_{i=1}^{\alpha} C_i(s_{i} | T, s_e, N_{i})]"/>
+<img src="http://latex.codecogs.com/svg.latex? s_e^* = \arg \max_{s_e \in S_e} [W(s_e | T, S_a, N_e) - \sum_{i=1}^{\alpha} C_i(s_{i} | T, s_e, N_{i})]"/>
 
 ## Evaluation through Simulation Studies
 
