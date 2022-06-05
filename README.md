@@ -34,13 +34,13 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 <img src="http://latex.codecogs.com/svg.latex? s_e^* = \underset{s_e \in {S_e}} \arg \max [W(s_e | T, S_a, N_e) - \sum_{i=1}^{\alpha} C_i(s_{i} | T, s_e, N_{i})]"/>
 </div>
 
-Note: Please check the [paper](https://arxiv.org/abs/2004.10950) for more details about the proof of the GUT Decision Theorem.
+* Note: Please check the [paper](https://arxiv.org/abs/2004.10950) for more details about the proof of the GUT Decision Theorem.
 
 ## Evaluation through Simulation Studies
 ### Experiment Platform
 Considering cross-platform, scalability, and efficiency of the simulations, we chose the [Unity](https://unity.com/) game engine to simulate the Explorers and Aliens Game and selected [Gambit](http://www.gambit-project.org/) toolkit for calculating each level's Nash Equilibrium in the GUT.
 
-> Note: Gambit is an open-source collection of tools for doing computation in game theory which can build, analyze, and explore game models.
+* Note: Gambit is an open-source collection of tools for doing computation in game theory which can build, analyze, and explore game models.
 
 ### Experiment Setting in the Explore Domain
 In this domain, the explorers will group in patrol formation to explore the circumstance when they do not detect aliens. They are provided with the location of the treasure and always choose the shortest path to the goal, then circle around the treasure location once reached. In the whole process, explorers present a kind of global behaviors using collective rationality and caring about their group interest. In contrast, aliens are more powerful than explorers but show only self-interest and do not cooperate within themselves. 
@@ -53,14 +53,14 @@ For this game implementation, we decompose the team strategy into three levels.
     <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/matrix.png" height="300" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/scenario.png" height="300" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-> Note: The design of the utility functions at each level is critical to determine whether an agent can calculate reasonable tactics.
+* Note: The design of the utility functions at each level is critical to determine whether an agent can calculate reasonable tactics.
 
 ### Visual Representation: Without and With Unintentional Adversaries
 <div align = center>
     <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/video.gif" height="210" alt="Hopper-V2 3SABC">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_s.gif" height="210" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-> Note: Please check the [Link](https://youtu.be/SjoxazLar6I) for the full video representation.
+* Note: Please check the [Link](https://youtu.be/SjoxazLar6I) for the full video representation.
 
 ## Demontration Explore Domain in Robotarium
 To demonstrate the GUT on the multi-robot applications, we implement our method in the [Robotarium](https://www.robotarium.gatech.edu/) platform, a remote-accessible multi-robot experiment testbed that supports controlling up to 20 robots simultaneously on a 3.2m x 2.0m large rectangular area. Each robot has the dimensions 0.11 m x 0.1 m x 0.07 m in the testbed. The platform also provides a simulator helping users test their code, which can rapidly prototype their distributed control algorithms and receive feedback about their implementation feasibility before sending them to be executed by the robots on the Robotarium. 
@@ -85,7 +85,7 @@ Our Robotarium experiments consider four different strategies for the explorer t
 <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/s4v3.gif" height="213" alt="Hopper-V2 3SABC Video"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/r4v3.gif" height="213" alt="Hopper-V2 3SABC"/>
 </div>
 
-> Note: Check the [Link](https://youtu.be/tax-mVvbxJs) for the full demonstration video.
+* Note: Check the [Link](https://youtu.be/tax-mVvbxJs) for the full demonstration video.
 
 ## Conclusion
 We introduce a new Game-theoretic Utility Tree (GUT) for multiagent decision-making in adversarial scenarios. We then present an example real-time strategy game called Explore Domain where a group of explorer agents tackles physically attacking adversary agents. Through extensive numerical simulations, we analyze GUT and compare it against a state-of-the-art cooperative decision-making approach, such as the greedy selection method in QMIX. We verified the effectiveness of GUT through two types of experiments involving interaction and information prediction between the agents. The results showed that the GUT could organize more complex relationships among MAS cooperation, helping the group achieve more challenging tasks with lower costs and higher winning rates. 
