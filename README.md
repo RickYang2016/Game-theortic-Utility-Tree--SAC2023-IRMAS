@@ -5,4 +5,7 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 
 > Extend to Pursuit Domain Paper: [Game-theoretic Utility Tree for Multi-Robot Cooperative Pursuit Strategy](https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022/blob/main/Gut-Pursuit-Domain-Robotarium-ISR2022Paper.pdf)
 
-
+> Structure of the Game-theoretic Utility Tree (GUT)
+    <div align = center>
+    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/GUT.png" height="360" alt="Hopper-V2 3SABC"/>
+    </div>
