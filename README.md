@@ -65,7 +65,7 @@ For this game implementation, we decompose the team strategy into three levels.
 ## Demontration Explore Domain in Robotarium
 To demonstrate the GUT on the multi-robot applications, we implement our method in the [Robotarium](https://www.robotarium.gatech.edu/) platform, a remote-accessible multi-robot experiment testbed that supports controlling up to 20 robots simultaneously on a 3.2m x 2.0m large rectangular area. Each robot has the dimensions 0.11 m x 0.1 m x 0.07 m in the testbed. The platform also provides a simulator helping users test their code, which can rapidly prototype their distributed control algorithms and receive feedback about their implementation feasibility before sending them to be executed by the robots on the Robotarium. 
 <div align = center>
-    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/matrix1.png" height="146" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/1eVS2a.png" height="146" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/matrix1.png" height="145" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/1eVS2a.png" height="145" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 ### one explorer vs. one alien
