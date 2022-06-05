@@ -65,6 +65,15 @@ For this game implementation, we decompose the team strategy into three levels.
 ## Demontration Explore Domain in Robotarium
 To demonstrate the GUT on the multi-robot applications, we implement our method in the [Robotarium](https://www.robotarium.gatech.edu/) platform, a remote-accessible multi-robot experiment testbed that supports controlling up to 20 robots simultaneously on a 3.2m x 2.0m large rectangular area. Each robot has the dimensions 0.11 m x 0.1 m x 0.07 m in the testbed. The platform also provides a simulator helping users test their code, which can rapidly prototype their distributed control algorithms and receive feedback about their implementation feasibility before sending them to be executed by the robots on the Robotarium. 
 
+### one explorer vs. one alien
+
+
+### one explorer vs. two aliens
+
+
+### four explorers vs. three aliens
+
+
 
 ## Conclusion
 We introduce a new Game-theoretic Utility Tree (GUT) for multiagent decision-making in adversarial scenarios. We then present an example real-time strategy game called Explore Domain where a group of explorer agents tackles physically attacking adversary agents. Through extensive numerical simulations, we analyze GUT and compare it against a state-of-the-art cooperative decision-making approach, such as the greedy selection method in QMIX. We verified the effectiveness of GUT through two types of experiments involving interaction and information prediction between the agents. The results showed that the GUT could organize more complex relationships among MAS cooperation, helping the group achieve more challenging tasks with lower costs and higher winning rates. 
