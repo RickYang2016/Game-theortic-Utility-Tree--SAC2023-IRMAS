@@ -14,7 +14,7 @@ Underlying relationships among multiagent systems (MAS) in hazardous scenarios c
 ## Approach Overview
 ### Adversarial Agent Definition
 <div align = center>
-    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/frontpic.png" height="275" alt="Hopper-V2 3SABC">
+    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/frontpic.png" height="275" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/adversary.png" height="275" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 ### Explore Domain
