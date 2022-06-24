@@ -50,7 +50,7 @@ For this game implementation, we decompose the team strategy into three levels.
 * At the second strategy level (deciding "who" to attack or defend against), the explorers use their collective basic needs expressed as a function of their current energy level in their payoff table. This helps the decision energy-aware. 
 * At the lowest strategy level (deciding "how" to attack/defend against), the explorers use their collective safety needs expressed through their health status (HP value) to calculate the payoff at this level. This ensures the decision is safety-aware since safety is the highest priority of needs as per the needs hierarchy defined. 
 <div align = center>
-    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/matrix.png" height="290" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/scenario.png" height="290" alt="Hopper-V2 3SABC Video"/>
+    <img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/matrix.png" height="280" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Game-theortic-Utility-Tree--GUT/blob/master/figures/scenario.png" height="280" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 > Note: The design of the utility functions at each level is critical to determine whether an agent can calculate reasonable tactics.
